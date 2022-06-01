@@ -112,11 +112,12 @@ flex: 70%;
 
 @media only screen and (max-width: 940px) {
 header {display: none;}
-aside {margin-top: -60px; 
+section {margin-top: 50px;}
+aside {margin-top: -40px; 
 padding: 10px 0px 0px 0px;
 background-color: #FFFFF0;}
 aside img {display: none;}
-aside nav {display: block; margin: 20px 0px 0px 40px; padding: 0px;}
+aside nav {display: block; margin: 15px 0px 0px 40px; padding: 0px;}
 aside nav li {display: inline;}
 aside {width: 100%;}
 section {margin-right: 10px}
